@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppView.prototype.render Should  render correctly 1`] = `"<ul><li>Video 1</li><li>Video 2</li><li>Video 3</li></ul>"`;
